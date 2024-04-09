@@ -1,2 +1,2 @@
-# Python-Couse
+# Python-Course
 Aprendiendo Python desde cero
