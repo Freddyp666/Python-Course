@@ -49,9 +49,14 @@ nombre, apellido, alias, sapo= "Fredy", "Pallo","Pato", "Si"
 print("Mi nombre es ", nombre, " mi apellido es ", apellido, " mi alias es ", alias, "y si soy sapo?", sapo)
 
 #ingresar valores por teclado, con la funcion input()
-tecladoString = input("Ingrese un Nombre: ")
-tecladoString2 = input("Ingrese un Apellido: ")
+#tecladoString = input("Ingrese un Nombre: ")
+#tecladoString2 = input("Ingrese un Apellido: ")
 
-print("El nombre ingresado es: ", tecladoString)
-print("El apellido ingresado es: ", tecladoString2)
+#print("El nombre ingresado es: ", tecladoString)
+#print("El apellido ingresado es: ", tecladoString2)
+
+#Forzar el tipo de dato con la funcion int()
+direccion:str = "Calle 123"
+direccion = 123
+print(direccion)
 
